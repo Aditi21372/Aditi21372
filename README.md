@@ -35,6 +35,8 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[IneqMath Proof Agent](https://github.com/Aditi21372/ineqmath-proof-agent)** | LLM agent generating rigorously verified math proofs: GEPA optimization + Lean 4/Mathlib formal checking, 28.6% to 100% pass rate | `DSPy` `GEPA` `Lean 4` |
+| **[Paper2Beamer Agent](https://github.com/Aditi21372/paper2beamer-agent)** | Autonomous agent converting LaTeX papers into themed Beamer decks, with auto-repair and interactive refinement | `LLM Agents` `LaTeX` `Python` |
 | **[NeuroChat: RAG Chatbot](https://github.com/Aditi21372/chatbot)** | FastAPI RAG service answering strictly from your docs: OpenAI or free TinyLlama fallback | `FastAPI` `LangChain` `FAISS` `Transformers` |
 | **[CGAL GitHub Crawler](https://github.com/Aditi21372/CGAL-CRAWLER)** | Mines GitHub for C++/CGAL usage patterns: rate-limited crawler, SQLite analytics, Flask dashboard | `Python` `Flask` `PyGithub` `SQLite` |
 | **[NURO](https://github.com/Aditi21372/NURO)** | AI task-breakdown assistant: Gemini turns task names into structured, actionable plans | `Django` `Gemini` `LLM` |
