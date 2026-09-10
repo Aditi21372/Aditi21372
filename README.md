@@ -113,7 +113,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-7C5CFF?style=for-the-badge)](https://aditi21372.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-your.email%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-aditisingla.as11-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditisingla.as11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aditi--singla11-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-singla11/)
 
 </div>
