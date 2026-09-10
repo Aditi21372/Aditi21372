@@ -31,7 +31,7 @@
 
 ## Education
 
-🎓 **Integrated B.Tech + M.Tech, Computer Science and Engineering** (2021 to 2026) · **CGPA 9.29/10**
+🎓 **Integrated B.Tech + M.Tech, Computer Science and Engineering @ IIIT-Delhi** (2021 to 2026) · **CGPA 9.29/10**
 
 *Relevant coursework:* Large Deep Learning Systems · Information Integration and Application · Convex Optimization · Algorithm Design and Analysis · Advanced Programming · Data Structures & Algorithms · Database Management Systems · Network Science · Interactive Systems · Ethical Hacking Essentials
 
