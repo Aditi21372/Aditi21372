@@ -81,12 +81,16 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditi21372&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi21372&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditi21372&theme=tokyonight" alt="Profile details" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Aditi21372&hide_border=true&theme=tokyonight&locale=en" alt="Streak stats" width="49%" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi21372&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditi21372&theme=tokyonight" alt="Repos per language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditi21372&theme=tokyonight" alt="Most committed languages" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditi21372&theme=tokyonight" alt="GitHub stats" width="32%" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditi21372&theme=tokyonight&utcOffset=5.5" alt="Productive time" width="97%" />
 </div>
 
 <br />
