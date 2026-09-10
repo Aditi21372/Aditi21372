@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=180&section=header&text=Hi%2C%20I'm%20Aditi&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%2FML%20Engineer:%20building%20intelligent%20systems&descSize=18&descAlignY=68" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=180&section=header&text=Hi%2C%20I'm%20Aditi%20Singla&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%2FML%20Engineer:%20building%20intelligent%20systems&descSize=18&descAlignY=68" width="100%" />
 </div>
 
 <div align="center">
@@ -26,6 +26,14 @@
 - 🔬 Built a **GitHub-scale data-collection pipeline** that mines real-world usage of a C++ scientific library, with rate-limit-aware crawling and analytics
 - 🏛️ Shipped tools used by an **academic institution**: automated graduation eligibility checks that replaced a manual Excel workflow
 - 🧠 Comfortable across the stack: **Python / FastAPI / Django**, **TypeScript / React / Angular**, and classical CS fundamentals (assemblers, OS internals)
+
+<br />
+
+## Education
+
+🎓 **Integrated B.Tech + M.Tech, Computer Science and Engineering** (2021 to 2026) · **CGPA 9.29/10**
+
+*Relevant coursework:* Large Deep Learning Systems · Information Integration and Application · Convex Optimization · Algorithm Design and Analysis · Advanced Programming · Data Structures & Algorithms · Database Management Systems · Network Science · Interactive Systems · Ethical Hacking Essentials
 
 <br />
 
@@ -104,7 +112,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-your.email%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--handle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aditi--singla11-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-singla11/)
 
 </div>
 
